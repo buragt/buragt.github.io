@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://buragt.github.io/wIq/sitemap.wIq.gz
